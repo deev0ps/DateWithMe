@@ -1,0 +1,40 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{font-size: 10px;}
+
+body {   
+      font-family: "Grandstander", cursive;
+      color: aliceblue;
+      font-size: 1.6rem;
+      line-height: 1.5;
+      text-align: center;
+      background-color: #742323;
+      }
+
+
+@media screen and (max-width:600px) {
+    input{font-size: 30px;}
+    
+}
+
+ /*input[title="btn1"]{margin-right: 45px;} */
+
+ button{
+    font-size: 40px;
+    background-color: #a14c1b;
+       position: relative;
+}
+
+
+
+  
+
+
+   
+    
+    
